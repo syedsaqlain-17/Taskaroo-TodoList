@@ -18,6 +18,7 @@ Taskaroo is a high-performance, branded To-Do application built with **React Nat
 - **State Management**: React Hooks (useState, useEffect)
 
 ## 📦 Installation & Setup
+[Click here to download the Taskaroo APK]=>https://drive.google.com/file/d/1s6e048BLiHmrX0yPkHqa66p-hDlPE--p/view?usp=sharing
 1. Clone this repository.
 2. Run `npm install` to install dependencies.
 3. Ensure your Android emulator is running.
